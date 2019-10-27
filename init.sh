@@ -13,6 +13,7 @@ sudo apt-get install \
   apt-transport-https \
   ca-certificates \
   software-properties-common \
+  git \
   vim \
   python \
   python-pip \
