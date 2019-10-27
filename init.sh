@@ -18,6 +18,11 @@ sudo apt-get install \
   python-pip \
   libffi-dev \
   python-backports.ssl-match-hostname \
+  golang \
+  wireless-tools \
+  net-tools \
+  libpcap-dev \
+  bluetooth \
   -y
 
 curl -sSL https://get.docker.com | sh
